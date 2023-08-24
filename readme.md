@@ -7,10 +7,10 @@ Skills: Python, MySQL , Microsoft Power BI , JavaScript, Statistics, Analytics <
 
 
 During the course of Gama I developed some projects. <br>
-• An <a href="https://github.com/srtakatsumi/API-ecom"> api for e-commerce </a> <br>
-• <a href="https://github.com/srtakatsumi/Gamma_Challenge"> Develop a popular and finger bank </a> <br>
+• An <a href="https://github.com/srxkatsumi/API-ecom"> api for e-commerce </a> <br>
+• <a href="https://github.com/srxkatsumi/Gamma_Challenge"> Develop a popular and finger bank </a> <br>
 
-• <a href="https://github.com/srtakatsumi/calculadora-Python"> In the courses they take I learned to make simple applications in python </a>
+• <a href="https://github.com/srxkatsumi/calculadora-Python"> In the courses they take I learned to make simple applications in python </a>
 
 <div> 
   <a href = "mailto:vic.gabriella.c@gmail.com"><img src="https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,14 +22,14 @@ During the course of Gama I developed some projects. <br>
 
  <div  align="center">
  <a href="https://github.com/srtakatsumi"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srtakatsumi&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtakatsumi&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srxkatsumi&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srxkatsumi&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
 </div>
 
 
 <div>
  
-  ![Snake animation](https://raw.githubusercontent.com/srtakatsumi/snk/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/srxkatsumi/snk/output/github-contribution-grid-snake.svg)
  
 </div>
 
