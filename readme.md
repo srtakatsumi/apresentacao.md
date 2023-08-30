@@ -17,15 +17,6 @@ During the course of Gama I developed some projects. <br>
   <a href="https://www.linkedin.com/in/victoriagcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 </div>
 
-# Estatísticas
-
-
- <div  align="center">
- <a href="https://github.com/srtakatsumi"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=srxkatsumi&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srxkatsumi&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
-</div>
-
 
 <div>
  
