@@ -1,10 +1,7 @@
 # Who am I?
 
-I'm a Data Analyst for almost 3 years, where I acquire data from various sources (SQL, Excel, Microsoft Power BI, SAP, Google Data Studio, Google BigQuery), process and analise the information to generate and present management reports.<br>
-I recently started an extension course in Data Analytics at Udacity, seeking to evolve my career as a Data Analyst focusing on Statistical Data Analysis, databases and delving deeper into Pandas, Numpy, Pyspark and SKlearn frameworks. In the future, I intend to work in the area of Big Data and Machine Learning.<br>
-
-Skills: Python, MySQL , Microsoft Power BI , JavaScript, Statistics, Analytics <br>
-
+With a solid 5-year background in data analysis, I am proficient in leveraging a suite of tools including SQL, Excel, Power BI, SAP, and Google BigQuery to extract, process, and analyze data. My expertise encompasses creating detailed management reports, ensuring data quality, and optimizing data integration through ETL processes. I am committed to furthering my knowledge in data science, particularly in areas of Machine Learning, with a focus on utilizing frameworks like Pandas, Numpy, Pyspark, and SKlearn.
+<br>Professionally, I have a proven track record in roles that required advanced data analytics, performance indicator analysis, and the development of automated data extraction and analysis jobs. My experience at companies such as Collinson Group, Santander, and Riachuelo S/A has equipped me with the skills to drive strategic business decisions and mentor teams in data analysis methodologies.</br>
 
 During the course of Gama I developed some projects. <br>
 • An <a href="https://github.com/srxkatsumi/API-ecom"> api for e-commerce </a> <br>
